@@ -1,3 +1,1 @@
-CSS3 Dropdown Menu
-
-multi-level dropdown menu in QlikView
+CSS3  Multi-level dropdown menu in QlikView
