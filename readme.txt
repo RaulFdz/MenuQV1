@@ -13,7 +13,7 @@ extension go to the next url:
 
 C:\Users\[User Name]\AppData\Local\QlikTech\QlikView\Extensions\Objects\menuQV1 
 
-there is the code that generates de list of menu and CSS file.
+there is the code that generates the list of menu and CSS file.
 
 to edit this extension it is necessary have some skills in CSS, HTML and JavaScipt.
 
